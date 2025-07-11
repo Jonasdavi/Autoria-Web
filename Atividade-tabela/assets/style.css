@@ -1,0 +1,60 @@
+h1{
+    text-align: center;
+    color: brown;
+}
+h2{
+    color: brown;
+}
+
+
+table{
+    margin-bottom: 30px;
+}
+
+caption{
+    border-bottom: BROWN solid 2px;
+    color: BROWN;
+    text-align: left;
+
+    font-weight: bold;
+    
+}
+
+th{
+    color: BROWN;
+    text-align: right;
+    line-height: 30px;
+    font-style: italic;
+    font-weight: normal; 
+    font-size: small;
+    
+}
+
+td{
+    text-align: right;
+    line-height: 30px;
+}
+
+tfoot{
+    color: BROWN;
+    font-weight: bold;
+}
+
+div{
+    width: 1200px;
+    margin: auto;
+}
+
+
+table{
+    border-collapse: collapse;
+    width: 1200px;
+}
+
+#total{
+    background-color:#F4A460;
+    font-weight: bold;
+    color: black;   
+}
+
+
